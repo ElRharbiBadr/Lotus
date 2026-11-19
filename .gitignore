@@ -157,4 +157,4 @@ vite.config.ts.timestamp-*
 .nx/migrate-runs
 
 
-.enve
+.env
